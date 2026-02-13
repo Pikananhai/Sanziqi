@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Sanziqi/Sanziqi.vcxproj" />
+  <Project Path="Sanziqi/Sanziqi.vcxproj" Id="a90bd15b-b9e1-45a2-bb96-cb733987cee0" />
 </Solution>
